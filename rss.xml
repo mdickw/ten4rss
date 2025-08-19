@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Ten4 Dispatch Feed</title>
+    <link>http://ten4.stream/</link>
+    <description>DeKalb-area emergency dispatch events</description>
+    <lastBuildDate>Tue, 19 Aug 2025 13:23:50 -0500</lastBuildDate>
+    <item>
+      <title>2025-08-18 14:02:32 — Somonauk</title>
+      <link>http://ten4.stream/1755543752000_2.mp3</link>
+      <description><![CDATA[ Fire Department, 300 South Cherry Street for a smoke detector, that's going off, call into the station,<br>
+ Fire Department, 300 South Cherry Street for a smoke detector, time out.<br>
+]]></description>
+      <guid isPermaLink="false">1755543752000-2</guid>
+      <pubDate>Mon, 18 Aug 2025 14:02:32 -0500</pubDate>
+      <enclosure url="http://ten4.stream/1755543752000_2.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>2025-08-18 14:04:32 — Sycamore 1</title>
+      <link>http://ten4.stream/1755543872000_2.mp3</link>
+      <description><![CDATA[ SIGMORE FIRE, Station 1 still alarm, ambulance request to 1830 Mediterranean Drive for a female that's lethargic and has low oxygen.<br>
+ SIGMORE FIRE, Station 1 still alarm, ambulance request 1830 Mediterranean Drive at the Northwestern Gastroenterology for a female with low oxygen, timeout 1404.<br>
+]]></description>
+      <guid isPermaLink="false">1755543872000-2</guid>
+      <pubDate>Mon, 18 Aug 2025 14:04:32 -0500</pubDate>
+      <enclosure url="http://ten4.stream/1755543872000_2.mp3" type="audio/mpeg" length="0"/>
+      <responses>
+        <response>
+          <title>2025-08-18 14:05:00 — follow-up</title>
+          <link>http://ten4.stream/1755543900000_2.mp3</link>
+          <description><![CDATA[ County, Seminox 315, we're on the scene. We've got a two-story residential. Nothing showing. We'll be out busking.<br>
+]]></description>
+          <guid isPermaLink="false">1755543900000-2</guid>
+          <pubDate>Mon, 18 Aug 2025 14:05:00 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755543900000_2.mp3" type="audio/mpeg" length="0"/>
+        </response>
+        <response>
+          <title>2025-08-18 14:05:14 — follow-up</title>
+          <link>http://ten4.stream/1755543914000_2.mp3</link>
+          <description><![CDATA[ 315 on the T-Machines.<br>
+]]></description>
+          <guid isPermaLink="false">1755543914000-2</guid>
+          <pubDate>Mon, 18 Aug 2025 14:05:14 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755543914000_2.mp3" type="audio/mpeg" length="0"/>
+        </response>
+        <response>
+          <title>2025-08-18 14:05:18 — follow-up</title>
+          <link>http://ten4.stream/1755543918000_2.mp3</link>
+          <description><![CDATA[ All right, stage one, guys.<br>
+]]></description>
+          <guid isPermaLink="false">1755543918000-2</guid>
+          <pubDate>Mon, 18 Aug 2025 14:05:18 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755543918000_2.mp3" type="audio/mpeg" length="0"/>
+        </response>
+        <response>
+          <title>2025-08-18 14:05:24 — follow-up</title>
+          <link>http://ten4.stream/1755543924000_2.mp3</link>
+          <description><![CDATA[ Thank you.<br>
+]]></description>
+          <guid isPermaLink="false">1755543924000-2</guid>
+          <pubDate>Mon, 18 Aug 2025 14:05:24 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755543924000_2.mp3" type="audio/mpeg" length="0"/>
+        </response>
+      </responses>
+    </item>
+    <item>
+      <title>2025-08-18 14:17:35 — Sycamore Recall</title>
+      <link>http://ten4.stream/1755544655000_2.mp3</link>
+      <description><![CDATA[ Engine, Sigmar Fire, shift recall for a second ambulance request, 1850 Gateway Drive at the clinic for a mail that fell in the parking lot.<br>
+ Again, Sigmar Fire, this is a shift recall, second ambulance request at the Bekelb Clinic, 1850 Gateway for a mail that fell in the parking lot.<br>
+ Timeout is 1417.<br>
+]]></description>
+      <guid isPermaLink="false">1755544655000-2</guid>
+      <pubDate>Mon, 18 Aug 2025 14:17:35 -0500</pubDate>
+      <enclosure url="http://ten4.stream/1755544655000_2.mp3" type="audio/mpeg" length="0"/>
+      <responses>
+        <response>
+          <title>2025-08-18 14:18:08 — follow-up</title>
+          <link>http://ten4.stream/1755544688000_2.mp3</link>
+          <description><![CDATA[ Coming from Swickamore, MEDIC-1. You can cancel the recall. We're going to be en route from 1830 Mediterranean with a refusal.<br>
+ Be en route shortly.<br>
+]]></description>
+          <guid isPermaLink="false">1755544688000-2</guid>
+          <pubDate>Mon, 18 Aug 2025 14:18:08 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755544688000_2.mp3" type="audio/mpeg" length="0"/>
+        </response>
+        <response>
+          <title>2025-08-18 14:18:18 — follow-up</title>
+          <link>http://ten4.stream/1755544698000_2.mp3</link>
+          <description><![CDATA[ Massage refuse canceling the recall.<br>
+]]></description>
+          <guid isPermaLink="false">1755544698000-2</guid>
+          <pubDate>Mon, 18 Aug 2025 14:18:18 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755544698000_2.mp3" type="audio/mpeg" length="0"/>
+        </response>
+        <response>
+          <title>2025-08-18 14:18:23 — follow-up</title>
+          <link>http://ten4.stream/1755544703000_2.mp3</link>
+          <description><![CDATA[ Take more fire. You can cancel the shift recall. Cancel the shift recall.<br>
+]]></description>
+          <guid isPermaLink="false">1755544703000-2</guid>
+          <pubDate>Mon, 18 Aug 2025 14:18:23 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755544703000_2.mp3" type="audio/mpeg" length="0"/>
+        </response>
+      </responses>
+    </item>
+    <item>
+      <title>2025-08-18 14:28:38 — Sycamore Recall</title>
+      <link>http://ten4.stream/1755545318000_2.mp3</link>
+      <description><![CDATA[ Beep<br>
+ Engine 6 more fire ship recall for another ambulance request at DaVita dialysis 2200 gateway female short of breath and low blood pressure timeout 1420<br>
+]]></description>
+      <guid isPermaLink="false">1755545318000-2</guid>
+      <pubDate>Mon, 18 Aug 2025 14:28:38 -0500</pubDate>
+      <enclosure url="http://ten4.stream/1755545318000_2.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>2025-08-18 15:18:36 — Kirkland, Genoa/Kingston, Genoa/Kingston</title>
+      <link>http://ten4.stream/1755548316000_2.mp3</link>
+      <description><![CDATA[ The National Weather Service in Chicago has issued a severe thunderstorm warning for northwestern<br>
+ DeKalb County until 4 p.m. Again, Kirkland Fire and GK Fire National Weather Service in Chicago issued a severe thunderstorm warning for northwestern DeKalb County until 4 p.m.<br>
+]]></description>
+      <guid isPermaLink="false">1755548316000-2</guid>
+      <pubDate>Mon, 18 Aug 2025 15:18:36 -0500</pubDate>
+      <enclosure url="http://ten4.stream/1755548316000_2.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>2025-08-18 15:42:06 — Shabbona</title>
+      <link>http://ten4.stream/1755549726000_2.mp3</link>
+      <description><![CDATA[ And attention, Shabana Fire, the National Weather Service in Chicago has issued a severe thunderstorm warning for DeKalb County until 4.30 p.m. Time out 1542.<br>
+]]></description>
+      <guid isPermaLink="false">1755549726000-2</guid>
+      <pubDate>Mon, 18 Aug 2025 15:42:06 -0500</pubDate>
+      <enclosure url="http://ten4.stream/1755549726000_2.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>2025-08-18 16:12:18 — Sycamore 2</title>
+      <link>http://ten4.stream/1755551538000_2.mp3</link>
+      <description><![CDATA[ Attention, Sycamore Fire Station 2, still alarm request for the fire department for wires down, Old State in 5 points.<br>
+ Old State in 5 points for power lines down on the roadway.<br>
+ Again, Sycamore Fire Station 2, still alarm request for the fire department, Old State in 5 points for power lines down in the roadway.<br>
+ Your timeout is 16-12.<br>
+]]></description>
+      <guid isPermaLink="false">1755551538000-2</guid>
+      <pubDate>Mon, 18 Aug 2025 16:12:18 -0500</pubDate>
+      <enclosure url="http://ten4.stream/1755551538000_2.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>2025-08-18 16:14:36 — Genoa/Kingston</title>
+      <link>http://ten4.stream/1755551676000_2.mp3</link>
+      <description><![CDATA[ Attention, GK Rescue, request for the fire department 13290 Ash Road for a tree that was struck by lightning and is on fire now.<br>
+ GK Rescue, request for the fire department 13290 Ash Road for a tree struck by lightning and is on fire.<br>
+ 10 out of 16, 14.<br>
+]]></description>
+      <guid isPermaLink="false">1755551676000-2</guid>
+      <pubDate>Mon, 18 Aug 2025 16:14:36 -0500</pubDate>
+      <enclosure url="http://ten4.stream/1755551676000_2.mp3" type="audio/mpeg" length="0"/>
+      <responses>
+        <response>
+          <title>2025-08-18 16:15:07 — follow-up</title>
+          <link>http://ten4.stream/1755551707000_2.mp3</link>
+          <description><![CDATA[ Capcom, ATK 1701.<br>
+]]></description>
+          <guid isPermaLink="false">1755551707000-2</guid>
+          <pubDate>Mon, 18 Aug 2025 16:15:07 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755551707000_2.mp3" type="audio/mpeg" length="0"/>
+        </response>
+        <response>
+          <title>2025-08-18 16:15:13 — follow-up</title>
+          <link>http://ten4.stream/1755551713000_2.mp3</link>
+          <description><![CDATA[ GK 1701<br>
+]]></description>
+          <guid isPermaLink="false">1755551713000-2</guid>
+          <pubDate>Mon, 18 Aug 2025 16:15:13 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755551713000_2.mp3" type="audio/mpeg" length="0"/>
+        </response>
+        <response>
+          <title>2025-08-18 16:15:16 — follow-up</title>
+          <link>http://ten4.stream/1755551716000_2.mp3</link>
+          <description><![CDATA[ Evidence on fire, out for that call please.<br>
+]]></description>
+          <guid isPermaLink="false">1755551716000-2</guid>
+          <pubDate>Mon, 18 Aug 2025 16:15:16 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755551716000_2.mp3" type="audio/mpeg" length="0"/>
+        </response>
+        <response>
+          <title>2025-08-18 16:15:23 — follow-up</title>
+          <link>http://ten4.stream/1755551723000_2.mp3</link>
+          <description><![CDATA[ I'm so sorry about that.<br>
+]]></description>
+          <guid isPermaLink="false">1755551723000-2</guid>
+          <pubDate>Mon, 18 Aug 2025 16:15:23 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755551723000_2.mp3" type="audio/mpeg" length="0"/>
+        </response>
+        <response>
+          <title>2025-08-18 16:15:27 — follow-up</title>
+          <link>http://ten4.stream/1755551727000_2.mp3</link>
+          <description><![CDATA[ GK Fire, this is a request for the Fire Department.<br>
+ 13290 Ash Road for a tree struck by lightning and it's now on fire.<br>
+ Again, GK Fire, this is a request for the Fire Department.<br>
+ 13290 Ash Road, tree struck by lightning.<br>
+ Exit on 1616.<br>
+]]></description>
+          <guid isPermaLink="false">1755551727000-2</guid>
+          <pubDate>Mon, 18 Aug 2025 16:15:27 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755551727000_2.mp3" type="audio/mpeg" length="0"/>
+        </response>
+        <response>
+          <title>2025-08-18 16:15:54 — follow-up</title>
+          <link>http://ten4.stream/1755551754000_2.mp3</link>
+          <description><![CDATA[ Johnny, JK Fire receives. Could you, do you know if it's in there any structures?<br>
+]]></description>
+          <guid isPermaLink="false">1755551754000-2</guid>
+          <pubDate>Mon, 18 Aug 2025 16:15:54 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755551754000_2.mp3" type="audio/mpeg" length="0"/>
+        </response>
+        <response>
+          <title>2025-08-18 16:16:02 — follow-up</title>
+          <link>http://ten4.stream/1755551762000_2.mp3</link>
+          <description><![CDATA[ That's unknown. It was called in by a nearby resident, not the resident.<br>
+]]></description>
+          <guid isPermaLink="false">1755551762000-2</guid>
+          <pubDate>Mon, 18 Aug 2025 16:16:02 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755551762000_2.mp3" type="audio/mpeg" length="0"/>
+        </response>
+        <response>
+          <title>2025-08-18 16:16:12 — follow-up</title>
+          <link>http://ten4.stream/1755551772000_2.mp3</link>
+          <description><![CDATA[ 10-4<br>
+]]></description>
+          <guid isPermaLink="false">1755551772000-2</guid>
+          <pubDate>Mon, 18 Aug 2025 16:16:12 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755551772000_2.mp3" type="audio/mpeg" length="0"/>
+        </response>
+      </responses>
+    </item>
+    <item>
+      <title>2025-08-18 16:18:40 — Sycamore Recall</title>
+      <link>http://ten4.stream/1755551920000_2.mp3</link>
+      <description><![CDATA[ Second more fire, shift, recall, head on collision, Plank and Lucan, Plank and Lucan, somewhere between Lucan's and the county line.<br>
+ Again, second more fire, this is a shift, recall, head on collision, Plank and Lucan, somewhere between there and the county line.<br>
+ Plank and Lucan, cars, timeout 1618.<br>
+]]></description>
+      <guid isPermaLink="false">1755551920000-2</guid>
+      <pubDate>Mon, 18 Aug 2025 16:18:40 -0500</pubDate>
+      <enclosure url="http://ten4.stream/1755551920000_2.mp3" type="audio/mpeg" length="0"/>
+      <responses>
+        <response>
+          <title>2025-08-18 16:19:06 — follow-up</title>
+          <link>http://ten4.stream/1755551946000_2.mp3</link>
+          <description><![CDATA[ Attention, GK Rescue, this will be a auto aid request for an ambulance to Plank and Lukens<br>
+ for a two vehicle head-on collision.<br>
+ Again, GK Rescue, you have an auto aid request to Sycamore, Plank and Lukens, somewhere between<br>
+ there in the county line, two vehicles head-on, sign out 1619.<br>
+]]></description>
+          <guid isPermaLink="false">1755551946000-2</guid>
+          <pubDate>Mon, 18 Aug 2025 16:19:06 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755551946000_2.mp3" type="audio/mpeg" length="0"/>
+        </response>
+        <response>
+          <title>2025-08-18 16:19:32 — follow-up</title>
+          <link>http://ten4.stream/1755551972000_2.mp3</link>
+          <description><![CDATA[ Guy in GKR, SQC, is that a tunnel being run shortening?<br>
+]]></description>
+          <guid isPermaLink="false">1755551972000-2</guid>
+          <pubDate>Mon, 18 Aug 2025 16:19:32 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755551972000_2.mp3" type="audio/mpeg" length="0"/>
+        </response>
+        <response>
+          <title>2025-08-18 16:19:38 — follow-up</title>
+          <link>http://ten4.stream/1755551978000_2.mp3</link>
+          <description><![CDATA[ Massage received.<br>
+]]></description>
+          <guid isPermaLink="false">1755551978000-2</guid>
+          <pubDate>Mon, 18 Aug 2025 16:19:38 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755551978000_2.mp3" type="audio/mpeg" length="0"/>
+        </response>
+        <response>
+          <title>2025-08-18 16:19:43 — follow-up</title>
+          <link>http://ten4.stream/1755551983000_2.mp3</link>
+          <description><![CDATA[ County, six more, battalion one.<br>
+]]></description>
+          <guid isPermaLink="false">1755551983000-2</guid>
+          <pubDate>Mon, 18 Aug 2025 16:19:43 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755551983000_2.mp3" type="audio/mpeg" length="0"/>
+        </response>
+        <response>
+          <title>2025-08-18 16:19:46 — follow-up</title>
+          <link>http://ten4.stream/1755551986000_2.mp3</link>
+          <description><![CDATA[ Battalion 1, go ahead.<br>
+]]></description>
+          <guid isPermaLink="false">1755551986000-2</guid>
+          <pubDate>Mon, 18 Aug 2025 16:19:46 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755551986000_2.mp3" type="audio/mpeg" length="0"/>
+        </response>
+      </responses>
+    </item>
+    <item>
+      <title>2025-08-18 16:34:17 — Genoa/Kingston</title>
+      <link>http://ten4.stream/1755552857000_2.mp3</link>
+      <description><![CDATA[ Attention, GK Fire, please respond to 23 north of 72 for a tree that took down wires.<br>
+ Again, GK Fire, please respond 23 and 72 north of the intersection for a tree that came down and took down some wires.<br>
+ There's also a van in the ditch. No injuries, no airbags.<br>
+]]></description>
+      <guid isPermaLink="false">1755552857000-2</guid>
+      <pubDate>Mon, 18 Aug 2025 16:34:17 -0500</pubDate>
+      <enclosure url="http://ten4.stream/1755552857000_2.mp3" type="audio/mpeg" length="0"/>
+      <responses>
+        <response>
+          <title>2025-08-18 16:34:54 — follow-up</title>
+          <link>http://ten4.stream/1755552894000_2.mp3</link>
+          <description><![CDATA[ Tony, you can show GK truck 90 engine 3 in row, so 72 and 23.<br>
+]]></description>
+          <guid isPermaLink="false">1755552894000-2</guid>
+          <pubDate>Mon, 18 Aug 2025 16:34:54 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755552894000_2.mp3" type="audio/mpeg" length="0"/>
+        </response>
+        <response>
+          <title>2025-08-18 16:35:08 — follow-up</title>
+          <link>http://ten4.stream/1755552908000_2.mp3</link>
+          <description><![CDATA[]]></description>
+          <guid isPermaLink="false">1755552908000-2</guid>
+          <pubDate>Mon, 18 Aug 2025 16:35:08 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755552908000_2.mp3" type="audio/mpeg" length="0"/>
+        </response>
+        <response>
+          <title>2025-08-18 16:35:14 — follow-up</title>
+          <link>http://ten4.stream/1755552914000_2.mp3</link>
+          <description><![CDATA[]]></description>
+          <guid isPermaLink="false">1755552914000-2</guid>
+          <pubDate>Mon, 18 Aug 2025 16:35:14 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755552914000_2.mp3" type="audio/mpeg" length="0"/>
+        </response>
+      </responses>
+    </item>
+    <item>
+      <title>2025-08-18 16:48:44 — Malta</title>
+      <link>http://ten4.stream/1755553724000_2.mp3</link>
+      <description><![CDATA[ Music<br>
+ Malta, fire request for the fire department to Kish College, 21193 Malta Road for a water flow alarm, called in by the alarm company.<br>
+ Malta fire request for the fire department, 21193 Malta Road at Kish College for a water flow alarm, timeout 1649.<br>
+]]></description>
+      <guid isPermaLink="false">1755553724000-2</guid>
+      <pubDate>Mon, 18 Aug 2025 16:48:44 -0500</pubDate>
+      <enclosure url="http://ten4.stream/1755553724000_2.mp3" type="audio/mpeg" length="0"/>
+      <responses>
+        <response>
+          <title>2025-08-18 16:49:15 — follow-up</title>
+          <link>http://ten4.stream/1755553755000_2.mp3</link>
+          <description><![CDATA[ Thanks for watching!<br>
+]]></description>
+          <guid isPermaLink="false">1755553755000-2</guid>
+          <pubDate>Mon, 18 Aug 2025 16:49:15 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755553755000_2.mp3" type="audio/mpeg" length="0"/>
+        </response>
+        <response>
+          <title>2025-08-18 16:49:19 — follow-up</title>
+          <link>http://ten4.stream/1755553759000_2.mp3</link>
+          <description><![CDATA[ Cap County, multi-fire message received.<br>
+]]></description>
+          <guid isPermaLink="false">1755553759000-2</guid>
+          <pubDate>Mon, 18 Aug 2025 16:49:19 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755553759000_2.mp3" type="audio/mpeg" length="0"/>
+        </response>
+        <response>
+          <title>2025-08-18 16:49:23 — follow-up</title>
+          <link>http://ten4.stream/1755553763000_2.mp3</link>
+          <description><![CDATA[ Malta, receive the page message.<br>
+]]></description>
+          <guid isPermaLink="false">1755553763000-2</guid>
+          <pubDate>Mon, 18 Aug 2025 16:49:23 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755553763000_2.mp3" type="audio/mpeg" length="0"/>
+        </response>
+      </responses>
+    </item>
+    <item>
+      <title>2025-08-18 17:27:07 — Genoa/Kingston</title>
+      <link>http://ten4.stream/1755556027000_2.mp3</link>
+      <description><![CDATA[ That's a GK Rescue request for the ambulance 218 Cook Drive, 218 Cook Drive.<br>
+ For a female who fell and hit her head, she's been falling a lot in the last few days, her husband's with her.<br>
+ GK Rescue request for the ambulance, 218 Cook Drive, crosses up Central and Hill, timeout 1727.<br>
+]]></description>
+      <guid isPermaLink="false">1755556027000-2</guid>
+      <pubDate>Mon, 18 Aug 2025 17:27:07 -0500</pubDate>
+      <enclosure url="http://ten4.stream/1755556027000_2.mp3" type="audio/mpeg" length="0"/>
+      <responses>
+        <response>
+          <title>2025-08-18 17:27:34 — follow-up</title>
+          <link>http://ten4.stream/1755556054000_2.mp3</link>
+          <description><![CDATA[ 10-0-3-6<br>
+]]></description>
+          <guid isPermaLink="false">1755556054000-2</guid>
+          <pubDate>Mon, 18 Aug 2025 17:27:34 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755556054000_2.mp3" type="audio/mpeg" length="0"/>
+        </response>
+        <response>
+          <title>2025-08-18 17:27:39 — follow-up</title>
+          <link>http://ten4.stream/1755556059000_2.mp3</link>
+          <description><![CDATA[ Thank you.<br>
+]]></description>
+          <guid isPermaLink="false">1755556059000-2</guid>
+          <pubDate>Mon, 18 Aug 2025 17:27:39 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755556059000_2.mp3" type="audio/mpeg" length="0"/>
+        </response>
+      </responses>
+    </item>
+    <item>
+      <title>2025-08-18 17:39:33 — Sycamore Recall</title>
+      <link>http://ten4.stream/1755556773000_2.mp3</link>
+      <description><![CDATA[ SIGMORE Fire, Department recall for an ambulance request to East State and Governor Street<br>
+ for a male that fell off his bike.<br>
+ He's in a one-gym parking lot.<br>
+ Again, SIGMORE Fire, Department recall for an ambulance request to East State and Governor<br>
+ Street in a one-gym parking lot for a male that fell off his bike, 10 out of 1739.<br>
+]]></description>
+      <guid isPermaLink="false">1755556773000-2</guid>
+      <pubDate>Mon, 18 Aug 2025 17:39:33 -0500</pubDate>
+      <enclosure url="http://ten4.stream/1755556773000_2.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>2025-08-18 18:13:13 — Sycamore Recall, Genoa/Kingston</title>
+      <link>http://ten4.stream/1755558793000_2.mp3</link>
+      <description><![CDATA[ Attention Sycamore and GK's fire. This is a mutual aid request to Hampshire at 18 North 692 Harmony Road due to the scene of a structure fire.<br>
+ Fire GK, you're due with an engine and a chief and Sycamore with a tender.<br>
+ Again, Sycamore and GK fire. This is a mutual aid request to Hampshire at 18 North 692 Harmony Road for a structure fire GK due with an engine and a chief and Sycamore with a tender.<br>
+ The cross street is Big Timber. Timeout is 18.13.<br>
+]]></description>
+      <guid isPermaLink="false">1755558793000-2</guid>
+      <pubDate>Mon, 18 Aug 2025 18:13:13 -0500</pubDate>
+      <enclosure url="http://ten4.stream/1755558793000_2.mp3" type="audio/mpeg" length="0"/>
+      <responses>
+        <response>
+          <title>2025-08-18 18:14:02 — follow-up</title>
+          <link>http://ten4.stream/1755558842000_2.mp3</link>
+          <description><![CDATA[ T.J. fire received through the engine room.<br>
+]]></description>
+          <guid isPermaLink="false">1755558842000-2</guid>
+          <pubDate>Mon, 18 Aug 2025 18:14:02 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755558842000_2.mp3" type="audio/mpeg" length="0"/>
+        </response>
+      </responses>
+    </item>
+    <item>
+      <title>2025-08-18 18:21:32 — Genoa/Kingston</title>
+      <link>http://ten4.stream/1755559292000_2.mp3</link>
+      <description><![CDATA[ GQ Rescue requests for the ambulance 1-3-4-3-2 Ash Road, 1-3-4-3-2 Ash Road, for a male having an allergic reaction to a bee sting, conscious of breathing but keeps passing out.<br>
+ GQ Rescue requests for the ambulance 1-3-4-3-2 Ash Road, cross of Willow and Harrison. Allergic reaction to the bee sting, timeout 18-22.<br>
+]]></description>
+      <guid isPermaLink="false">1755559292000-2</guid>
+      <pubDate>Mon, 18 Aug 2025 18:21:32 -0500</pubDate>
+      <enclosure url="http://ten4.stream/1755559292000_2.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>2025-08-18 18:24:43 — Genoa/Kingston, Genoa/Kingston</title>
+      <link>http://ten4.stream/1755559483000_2.mp3</link>
+      <description><![CDATA[ Attention, GK Fire and Rescue, request for the ambulance 13432 Ash Road for a male who got stung by a bee.<br>
+ He's having an allergic reaction.<br>
+ GK Fire and Rescue, request for the ambulance 13432 Ash Road, male, stung by a bee, having an allergic reaction.<br>
+]]></description>
+      <guid isPermaLink="false">1755559483000-2</guid>
+      <pubDate>Mon, 18 Aug 2025 18:24:43 -0500</pubDate>
+      <enclosure url="http://ten4.stream/1755559483000_2.mp3" type="audio/mpeg" length="0"/>
+      <responses>
+        <response>
+          <title>2025-08-18 18:25:16 — follow-up</title>
+          <link>http://ten4.stream/1755559516000_2.mp3</link>
+          <description><![CDATA[ County, TK Fire and Rescue received. Engine 16 will be en route shortly.<br>
+]]></description>
+          <guid isPermaLink="false">1755559516000-2</guid>
+          <pubDate>Mon, 18 Aug 2025 18:25:16 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755559516000_2.mp3" type="audio/mpeg" length="0"/>
+        </response>
+        <response>
+          <title>2025-08-18 18:25:23 — follow-up</title>
+          <link>http://ten4.stream/1755559523000_2.mp3</link>
+          <description><![CDATA[ Received.<br>
+]]></description>
+          <guid isPermaLink="false">1755559523000-2</guid>
+          <pubDate>Mon, 18 Aug 2025 18:25:23 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755559523000_2.mp3" type="audio/mpeg" length="0"/>
+        </response>
+      </responses>
+    </item>
+    <item>
+      <title>2025-08-18 18:55:19 — Genoa/Kingston, Genoa/Kingston</title>
+      <link>http://ten4.stream/1755561319000_2.mp3</link>
+      <description><![CDATA[ Attention, GK Rescue, GK Rescue, this is another request for an ambulance at the Genesis House Group Home 1101 for Simmons Drive for a male disability breathing.<br>
+ Attention, GK Rescue, this is another request for an ambulance at the Genesis House Group Home 1101 for Simmons Drive for a male disability breathing.<br>
+ Your cross sheets are going to be Gary's Way and Maple Lane. Time out, 1855.<br>
+]]></description>
+      <guid isPermaLink="false">1755561319000-2</guid>
+      <pubDate>Mon, 18 Aug 2025 18:55:19 -0500</pubDate>
+      <enclosure url="http://ten4.stream/1755561319000_2.mp3" type="audio/mpeg" length="0"/>
+      <responses>
+        <response>
+          <title>2025-08-18 18:56:01 — follow-up</title>
+          <link>http://ten4.stream/1755561361000_2.mp3</link>
+          <description><![CDATA[ County, GCI Descendant out.<br>
+]]></description>
+          <guid isPermaLink="false">1755561361000-2</guid>
+          <pubDate>Mon, 18 Aug 2025 18:56:01 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755561361000_2.mp3" type="audio/mpeg" length="0"/>
+        </response>
+        <response>
+          <title>2025-08-18 18:56:08 — follow-up</title>
+          <link>http://ten4.stream/1755561368000_2.mp3</link>
+          <description><![CDATA[ TK, I have a send an error message received.<br>
+]]></description>
+          <guid isPermaLink="false">1755561368000-2</guid>
+          <pubDate>Mon, 18 Aug 2025 18:56:08 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755561368000_2.mp3" type="audio/mpeg" length="0"/>
+        </response>
+        <response>
+          <title>2025-08-18 18:56:15 — follow-up</title>
+          <link>http://ten4.stream/1755561375000_2.mp3</link>
+          <description><![CDATA[ All right, it's on from station one, would you like the engine crew assistance?<br>
+]]></description>
+          <guid isPermaLink="false">1755561375000-2</guid>
+          <pubDate>Mon, 18 Aug 2025 18:56:15 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755561375000_2.mp3" type="audio/mpeg" length="0"/>
+        </response>
+        <response>
+          <title>2025-08-18 18:56:25 — follow-up</title>
+          <link>http://ten4.stream/1755561385000_2.mp3</link>
+          <description><![CDATA[ Sure, I'll take ya. I'm sound and easy, we'll see ya.<br>
+]]></description>
+          <guid isPermaLink="false">1755561385000-2</guid>
+          <pubDate>Mon, 18 Aug 2025 18:56:25 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755561385000_2.mp3" type="audio/mpeg" length="0"/>
+        </response>
+        <response>
+          <title>2025-08-18 18:56:32 — follow-up</title>
+          <link>http://ten4.stream/1755561392000_2.mp3</link>
+          <description><![CDATA[ 10-4, the engine will be around shortly.<br>
+]]></description>
+          <guid isPermaLink="false">1755561392000-2</guid>
+          <pubDate>Mon, 18 Aug 2025 18:56:32 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755561392000_2.mp3" type="audio/mpeg" length="0"/>
+        </response>
+        <response>
+          <title>2025-08-18 18:56:37 — follow-up</title>
+          <link>http://ten4.stream/1755561397000_2.mp3</link>
+          <description><![CDATA[ Thank you.<br>
+]]></description>
+          <guid isPermaLink="false">1755561397000-2</guid>
+          <pubDate>Mon, 18 Aug 2025 18:56:37 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755561397000_2.mp3" type="audio/mpeg" length="0"/>
+        </response>
+      </responses>
+    </item>
+    <item>
+      <title>2025-08-18 21:50:42 — Genoa/Kingston</title>
+      <link>http://ten4.stream/1755571842000_2.mp3</link>
+      <description><![CDATA[ Attention, GK Rescue, GK Rescue request for an ambulance at 29870 Ellen Drive for a 90-year-old female who fell and needs a lift assist, unknown if she's injured.<br>
+ Attention, GK Rescue request for an ambulance at 29870 Ellen Drive for a 90-year-old female who fell and needs a lift assist, unknown if she's injured.<br>
+ Your cross-sheet is going to be Baseline Road, timeout 2151.<br>
+]]></description>
+      <guid isPermaLink="false">1755571842000-2</guid>
+      <pubDate>Mon, 18 Aug 2025 21:50:42 -0500</pubDate>
+      <enclosure url="http://ten4.stream/1755571842000_2.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>2025-08-18 22:44:43 — Alert</title>
+      <link>http://ten4.stream/1755575083000_24.mp3</link>
+      <description><![CDATA[ Beep<br>
+]]></description>
+      <guid isPermaLink="false">1755575083000-24</guid>
+      <pubDate>Mon, 18 Aug 2025 22:44:43 -0500</pubDate>
+      <enclosure url="http://ten4.stream/1755575083000_24.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>2025-08-18 23:32:59 — Sycamore 2</title>
+      <link>http://ten4.stream/1755577979000_2.mp3</link>
+      <description><![CDATA[ Alarm<br>
+ Attention, Sycamore Fire Station 2, you have a civil alarm ambulance request at 168 Swanson Road.<br>
+ A 48 74-year-old male who's not feeling well, his heart's not beating properly.<br>
+ Attention, Sycamore Fire Station 2, you have a civil alarm ambulance request.<br>
+ 168 Swanson Road, a 48 74-year-old male who's not feeling well,<br>
+ heart's not beating properly.<br>
+ Your cross streets are going to be North Main Street and Coven Street, timeout 2333.<br>
+]]></description>
+      <guid isPermaLink="false">1755577979000-2</guid>
+      <pubDate>Mon, 18 Aug 2025 23:32:59 -0500</pubDate>
+      <enclosure url="http://ten4.stream/1755577979000_2.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>2025-08-19 00:17:53 — Sycamore Recall</title>
+      <link>http://ten4.stream/1755580673000_2.mp3</link>
+      <description><![CDATA[ Attention, Sigma Fire, this is a department recall for wires down 1445 Freed Road.<br>
+ They're going to be right in front of the roadway, no arcing or sparking.<br>
+ Attention, Sigma Fire, this is a department recall for wires down 1445 Freed Road.<br>
+ They're in front of the roadway, no arcing or sparking.<br>
+ Your cross streets are going to be Tesla, Cortlandt, Sandcastle Drive, time out, 18 after midnight.<br>
+]]></description>
+      <guid isPermaLink="false">1755580673000-2</guid>
+      <pubDate>Tue, 19 Aug 2025 00:17:53 -0500</pubDate>
+      <enclosure url="http://ten4.stream/1755580673000_2.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>2025-08-19 01:10:15 — Genoa/Kingston</title>
+      <link>http://ten4.stream/1755583815000_2.mp3</link>
+      <description><![CDATA[ Attention, GQ Rescue, GQ Rescue, request for an ambulance at 116 East Main Street for a<br>
+ mail rule that was shrinking geromagics.<br>
+ Callers requesting an ambulance for an e-valve.<br>
+ Attention, GQ Rescue, request for an ambulance at 116 East Main Street for a mail that was<br>
+ shrinking geromagics.<br>
+ Callers requesting an ambulance for an e-valve.<br>
+ Your cross streets are going to be North Sycamore Street and North Locust Street, timeout 110.<br>
+]]></description>
+      <guid isPermaLink="false">1755583815000-2</guid>
+      <pubDate>Tue, 19 Aug 2025 01:10:15 -0500</pubDate>
+      <enclosure url="http://ten4.stream/1755583815000_2.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>2025-08-19 06:56:24 — Sycamore 1</title>
+      <link>http://ten4.stream/1755604584000_2.mp3</link>
+      <description><![CDATA[ The 1855 Cary Brook Court, that is 1855 Cary Brook Court, Crest of Longwood, 45 year old male, he's got his breathing, caller's not sure what's going on, possibly on drugs, they're in the garage, time out, 666.<br>
+]]></description>
+      <guid isPermaLink="false">1755604584000-2</guid>
+      <pubDate>Tue, 19 Aug 2025 06:56:24 -0500</pubDate>
+      <enclosure url="http://ten4.stream/1755604584000_2.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>2025-08-19 07:11:15 — Genoa/Kingston</title>
+      <link>http://ten4.stream/1755605475000_2.mp3</link>
+      <description><![CDATA[ Attention, Genoa Kingston Rescue, request for an ambulance to 2-9-9-0-0, Corson Drive in Kingston.<br>
+ That's 29-900, Corson Drive across the Tushwaki Drive in the baseline.<br>
+ This will be for a female, severe stomach pain, has chills and vomited.<br>
+ I'm out, 7-11.<br>
+]]></description>
+      <guid isPermaLink="false">1755605475000-2</guid>
+      <pubDate>Tue, 19 Aug 2025 07:11:15 -0500</pubDate>
+      <enclosure url="http://ten4.stream/1755605475000_2.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>2025-08-19 08:48:38 — Genoa/Kingston</title>
+      <link>http://ten4.stream/1755611318000_2.mp3</link>
+      <description><![CDATA[-<br>
+]]></description>
+      <guid isPermaLink="false">1755611318000-2</guid>
+      <pubDate>Tue, 19 Aug 2025 08:48:38 -0500</pubDate>
+      <enclosure url="http://ten4.stream/1755611318000_2.mp3" type="audio/mpeg" length="0"/>
+      <responses>
+        <response>
+          <title>2025-08-19 08:49:08 — follow-up</title>
+          <link>http://ten4.stream/1755611348000_2.mp3</link>
+          <description><![CDATA[ Top guy, GK 1701.<br>
+]]></description>
+          <guid isPermaLink="false">1755611348000-2</guid>
+          <pubDate>Tue, 19 Aug 2025 08:49:08 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755611348000_2.mp3" type="audio/mpeg" length="0"/>
+        </response>
+        <response>
+          <title>2025-08-19 08:49:14 — follow-up</title>
+          <link>http://ten4.stream/1755611354000_2.mp3</link>
+          <description><![CDATA[ Thanks for watching!<br>
+]]></description>
+          <guid isPermaLink="false">1755611354000-2</guid>
+          <pubDate>Tue, 19 Aug 2025 08:49:14 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755611354000_2.mp3" type="audio/mpeg" length="0"/>
+        </response>
+        <response>
+          <title>2025-08-19 08:49:18 — follow-up</title>
+          <link>http://ten4.stream/1755611358000_2.mp3</link>
+          <description><![CDATA[ Got it, we got tones and no message and just now we just got a key up but no voice.<br>
+]]></description>
+          <guid isPermaLink="false">1755611358000-2</guid>
+          <pubDate>Tue, 19 Aug 2025 08:49:18 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755611358000_2.mp3" type="audio/mpeg" length="0"/>
+        </response>
+        <response>
+          <title>2025-08-19 08:49:29 — follow-up</title>
+          <link>http://ten4.stream/1755611369000_2.mp3</link>
+          <description><![CDATA[ Massage me.<br>
+]]></description>
+          <guid isPermaLink="false">1755611369000-2</guid>
+          <pubDate>Tue, 19 Aug 2025 08:49:29 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755611369000_2.mp3" type="audio/mpeg" length="0"/>
+        </response>
+      </responses>
+    </item>
+    <item>
+      <title>2025-08-19 09:08:08 — Alert</title>
+      <link>http://ten4.stream/1755612488400_24.mp3</link>
+      <description><![CDATA[ Two seats away, south units, make car 397, advise the situation, secure one in custody.<br>
+]]></description>
+      <guid isPermaLink="false">1755612488400-24</guid>
+      <pubDate>Tue, 19 Aug 2025 09:08:08 -0500</pubDate>
+      <enclosure url="http://ten4.stream/1755612488400_24.mp3" type="audio/mpeg" length="0"/>
+      <responses>
+        <response>
+          <title>2025-08-19 09:08:27 — follow-up</title>
+          <link>http://ten4.stream/1755612507000_24.mp3</link>
+          <description><![CDATA[ 3-297, go ahead with that stop if you request a flatbed tow.<br>
+]]></description>
+          <guid isPermaLink="false">1755612507000-24</guid>
+          <pubDate>Tue, 19 Aug 2025 09:08:27 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755612507000_24.mp3" type="audio/mpeg" length="0"/>
+        </response>
+      </responses>
+    </item>
+    <item>
+      <title>2025-08-19 09:31:42 — Alert</title>
+      <link>http://ten4.stream/1755613902020_24.mp3</link>
+      <description><![CDATA[ F**K<br>
+]]></description>
+      <guid isPermaLink="false">1755613902020-24</guid>
+      <pubDate>Tue, 19 Aug 2025 09:31:42 -0500</pubDate>
+      <enclosure url="http://ten4.stream/1755613902020_24.mp3" type="audio/mpeg" length="0"/>
+      <responses>
+        <response>
+          <title>2025-08-19 09:31:44 — follow-up</title>
+          <link>http://ten4.stream/1755613904360_24.mp3</link>
+          <description><![CDATA[ 2C, Tollway South Unit, Stake Archie, 297 requesting routine assistance, 294 North<br>
+ Arch, Hinsdale Oasis Exit, on a PI crash in a unit in the area of ours.<br>
+]]></description>
+          <guid isPermaLink="false">1755613904360-24</guid>
+          <pubDate>Tue, 19 Aug 2025 09:31:44 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755613904360_24.mp3" type="audio/mpeg" length="0"/>
+        </response>
+        <response>
+          <title>2025-08-19 09:31:55 — follow-up</title>
+          <link>http://ten4.stream/1755613915520_24.mp3</link>
+          <description><![CDATA[ Travel 31, can I be on local 2?<br>
+]]></description>
+          <guid isPermaLink="false">1755613915520-24</guid>
+          <pubDate>Tue, 19 Aug 2025 09:31:55 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755613915520_24.mp3" type="audio/mpeg" length="0"/>
+        </response>
+        <response>
+          <title>2025-08-19 09:31:57 — follow-up</title>
+          <link>http://ten4.stream/1755613917860_24.mp3</link>
+          <description><![CDATA[ See what I see, Tesla.<br>
+]]></description>
+          <guid isPermaLink="false">1755613917860-24</guid>
+          <pubDate>Tue, 19 Aug 2025 09:31:57 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755613917860_24.mp3" type="audio/mpeg" length="0"/>
+        </response>
+        <response>
+          <title>2025-08-19 09:31:58 — follow-up</title>
+          <link>http://ten4.stream/1755613918760_24.mp3</link>
+          <description><![CDATA[ And I'm too, so I'm in a row.<br>
+]]></description>
+          <guid isPermaLink="false">1755613918760-24</guid>
+          <pubDate>Tue, 19 Aug 2025 09:31:58 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755613918760_24.mp3" type="audio/mpeg" length="0"/>
+        </response>
+        <response>
+          <title>2025-08-19 09:32:00 — follow-up</title>
+          <link>http://ten4.stream/1755613920020_24.mp3</link>
+          <description><![CDATA[ Yes, you suffer.<br>
+]]></description>
+          <guid isPermaLink="false">1755613920020-24</guid>
+          <pubDate>Tue, 19 Aug 2025 09:32:00 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755613920020_24.mp3" type="audio/mpeg" length="0"/>
+        </response>
+        <response>
+          <title>2025-08-19 09:32:00 — follow-up</title>
+          <link>http://ten4.stream/1755613920920_24.mp3</link>
+          <description><![CDATA[ 3430, show me where I'll go to.<br>
+]]></description>
+          <guid isPermaLink="false">1755613920920-24</guid>
+          <pubDate>Tue, 19 Aug 2025 09:32:00 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755613920920_24.mp3" type="audio/mpeg" length="0"/>
+        </response>
+        <response>
+          <title>2025-08-19 09:32:04 — follow-up</title>
+          <link>http://ten4.stream/1755613924160_24.mp3</link>
+          <description><![CDATA[ Give her the sample.<br>
+]]></description>
+          <guid isPermaLink="false">1755613924160-24</guid>
+          <pubDate>Tue, 19 Aug 2025 09:32:04 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755613924160_24.mp3" type="audio/mpeg" length="0"/>
+        </response>
+        <response>
+          <title>2025-08-19 09:32:05 — follow-up</title>
+          <link>http://ten4.stream/1755613925420_24.mp3</link>
+          <description><![CDATA[ 392 from Rosengard.<br>
+]]></description>
+          <guid isPermaLink="false">1755613925420-24</guid>
+          <pubDate>Tue, 19 Aug 2025 09:32:05 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755613925420_24.mp3" type="audio/mpeg" length="0"/>
+        </response>
+        <response>
+          <title>2025-08-19 09:32:06 — follow-up</title>
+          <link>http://ten4.stream/1755613926860_24.mp3</link>
+          <description><![CDATA[ J-X-U-S-O-V-A<br>
+]]></description>
+          <guid isPermaLink="false">1755613926860-24</guid>
+          <pubDate>Tue, 19 Aug 2025 09:32:06 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755613926860_24.mp3" type="audio/mpeg" length="0"/>
+        </response>
+      </responses>
+    </item>
+    <item>
+      <title>2025-08-19 09:48:01 — Sycamore 1</title>
+      <link>http://ten4.stream/1755614881000_2.mp3</link>
+      <description><![CDATA[ Attention, Sycamore Fire Station 1, still armed ambulance request to the Grand Victorian<br>
+ at 1440 South Salmonac.<br>
+ Grand Victorian, 1440 South Salmonac, room 212, 212, free female patient.<br>
+ She fell about an hour ago, but now complaining of left shoulder pain.<br>
+ Time out, 948.<br>
+]]></description>
+      <guid isPermaLink="false">1755614881000-2</guid>
+      <pubDate>Tue, 19 Aug 2025 09:48:01 -0500</pubDate>
+      <enclosure url="http://ten4.stream/1755614881000_2.mp3" type="audio/mpeg" length="0"/>
+      <responses>
+        <response>
+          <title>2025-08-19 09:48:30 — follow-up</title>
+          <link>http://ten4.stream/1755614910000_2.mp3</link>
+          <description><![CDATA[ Got it, this is the only guy that doesn't have a quantum beer box really.<br>
+]]></description>
+          <guid isPermaLink="false">1755614910000-2</guid>
+          <pubDate>Tue, 19 Aug 2025 09:48:30 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755614910000_2.mp3" type="audio/mpeg" length="0"/>
+        </response>
+        <response>
+          <title>2025-08-19 09:48:36 — follow-up</title>
+          <link>http://ten4.stream/1755614916000_2.mp3</link>
+          <description><![CDATA[ Message received.<br>
+]]></description>
+          <guid isPermaLink="false">1755614916000-2</guid>
+          <pubDate>Tue, 19 Aug 2025 09:48:36 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755614916000_2.mp3" type="audio/mpeg" length="0"/>
+        </response>
+      </responses>
+    </item>
+    <item>
+      <title>2025-08-19 11:39:47 — DeKalb</title>
+      <link>http://ten4.stream/1755621587000_4.mp3</link>
+      <description><![CDATA[ ATTENTION D calls fire department. This is a shift 3B call for multiple units on multiple call.<br>
+]]></description>
+      <guid isPermaLink="false">1755621587000-4</guid>
+      <pubDate>Tue, 19 Aug 2025 11:39:47 -0500</pubDate>
+      <enclosure url="http://ten4.stream/1755621587000_4.mp3" type="audio/mpeg" length="0"/>
+      <responses>
+        <response>
+          <title>2025-08-19 11:40:13 — follow-up</title>
+          <link>http://ten4.stream/1755621613000_4.mp3</link>
+          <description><![CDATA[ The Kilometer 3 is in route.<br>
+ Parking deck.<br>
+]]></description>
+          <guid isPermaLink="false">1755621613000-4</guid>
+          <pubDate>Tue, 19 Aug 2025 11:40:13 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755621613000_4.mp3" type="audio/mpeg" length="0"/>
+        </response>
+        <response>
+          <title>2025-08-19 11:40:20 — follow-up</title>
+          <link>http://ten4.stream/1755621620000_4.mp3</link>
+          <description><![CDATA[ Thank you. Air lift assist no injuries.<br>
+]]></description>
+          <guid isPermaLink="false">1755621620000-4</guid>
+          <pubDate>Tue, 19 Aug 2025 11:40:20 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755621620000_4.mp3" type="audio/mpeg" length="0"/>
+        </response>
+        <response>
+          <title>2025-08-19 11:40:26 — follow-up</title>
+          <link>http://ten4.stream/1755621626000_4.mp3</link>
+          <description><![CDATA[ Good job Medics Florida, they gave you a door number and no press.<br>
+]]></description>
+          <guid isPermaLink="false">1755621626000-4</guid>
+          <pubDate>Tue, 19 Aug 2025 11:40:26 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755621626000_4.mp3" type="audio/mpeg" length="0"/>
+        </response>
+        <response>
+          <title>2025-08-19 11:40:34 — follow-up</title>
+          <link>http://ten4.stream/1755621634000_4.mp3</link>
+          <description><![CDATA[ Permit to enter door 26. I'm going to meet you there. It's going to be room number 3090.<br>
+]]></description>
+          <guid isPermaLink="false">1755621634000-4</guid>
+          <pubDate>Tue, 19 Aug 2025 11:40:34 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755621634000_4.mp3" type="audio/mpeg" length="0"/>
+        </response>
+        <response>
+          <title>2025-08-19 11:40:42 — follow-up</title>
+          <link>http://ten4.stream/1755621642000_4.mp3</link>
+          <description><![CDATA[ We're going to close the door, 20-60 today.<br>
+]]></description>
+          <guid isPermaLink="false">1755621642000-4</guid>
+          <pubDate>Tue, 19 Aug 2025 11:40:42 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755621642000_4.mp3" type="audio/mpeg" length="0"/>
+        </response>
+        <response>
+          <title>2025-08-19 11:40:50 — follow-up</title>
+          <link>http://ten4.stream/1755621650000_4.mp3</link>
+          <description><![CDATA[ That's correct.<br>
+]]></description>
+          <guid isPermaLink="false">1755621650000-4</guid>
+          <pubDate>Tue, 19 Aug 2025 11:40:50 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755621650000_4.mp3" type="audio/mpeg" length="0"/>
+        </response>
+        <response>
+          <title>2025-08-19 11:40:53 — follow-up</title>
+          <link>http://ten4.stream/1755621653000_4.mp3</link>
+          <description><![CDATA[ Thank you, thank you.<br>
+]]></description>
+          <guid isPermaLink="false">1755621653000-4</guid>
+          <pubDate>Tue, 19 Aug 2025 11:40:53 -0500</pubDate>
+          <enclosure url="http://ten4.stream/1755621653000_4.mp3" type="audio/mpeg" length="0"/>
+        </response>
+      </responses>
+    </item>
+    <item>
+      <title>2025-08-19 11:48:06 — Cortland</title>
+      <link>http://ten4.stream/1755622086000_2.mp3</link>
+      <description><![CDATA[ We have officers out with a vehicle that's pulled over and they would like the male driver checked out.<br>
+ Time on 1148.<br>
+]]></description>
+      <guid isPermaLink="false">1755622086000-2</guid>
+      <pubDate>Tue, 19 Aug 2025 11:48:06 -0500</pubDate>
+      <enclosure url="http://ten4.stream/1755622086000_2.mp3" type="audio/mpeg" length="0"/>
+    </item>
+    <item>
+      <title>2025-08-19 12:12:13 — Sycamore 2</title>
+      <link>http://ten4.stream/1755623533000_2.mp3</link>
+      <description><![CDATA[ 10-10, Sycamore Fire Station 2, Stillarm hands on this request to 15260 Whipple Road, that's 15-260 Whipple Road, press 23, Moose Range, free mail in the 70s, need a lift assist, time out, huff huff.<br>
+]]></description>
+      <guid isPermaLink="false">1755623533000-2</guid>
+      <pubDate>Tue, 19 Aug 2025 12:12:13 -0500</pubDate>
+      <enclosure url="http://ten4.stream/1755623533000_2.mp3" type="audio/mpeg" length="0"/>
+    </item>
+  </channel>
+</rss>
